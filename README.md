@@ -38,11 +38,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.uber.com/nl/nl/
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/home page small screen uber.png" width="375px" alt="Foto van de home page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   https://www.uber.com/nl/nl/business/  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/small screen zakelijke pagina.png" width="375px" alt="Foto van de tweede pagina">
 </details>
 
 
